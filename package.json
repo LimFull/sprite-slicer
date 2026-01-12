@@ -1,0 +1,14 @@
+{
+  "name": "sprite-slicer",
+  "version": "1.0.0",
+  "description": "Slice sprite sheets into individual frame images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["sprite", "image", "game", "asset"],
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
